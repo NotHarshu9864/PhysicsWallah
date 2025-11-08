@@ -1,0 +1,8 @@
+[
+  { "name": "Physics", "href": "Udaan10th/Physics-10th.html", "videos": 67, "notes": 71, "dpp": 5 },
+  { "name": "Chemistry", "href": "Udaan10th/Chemistry-10th.html", "videos": 71, "notes": 79, "dpp": 2 },
+  { "name": "Biology", "href": "Udaan10th/Biology-10th.html", "videos": 67, "notes": 71, "dpp": 5 },
+  { "name": "Maths", "href": "Udaan10th/Maths-10th.html", "videos": 71, "notes": 79, "dpp": 2 },
+  { "name": "SST", "href": "Udaan10th/SST-10th.html", "videos": 67, "notes": 71, "dpp": 5 },
+  { "name": "English (Lang & Lit)", "href": "Udaan10th/English-10th.html", "videos": 71, "notes": 79, "dpp": 2 }
+]
